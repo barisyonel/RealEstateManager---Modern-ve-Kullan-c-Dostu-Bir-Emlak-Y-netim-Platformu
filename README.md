@@ -1,4 +1,3 @@
-Özellikler
 Favori İlanlar: İlanları favorilere ekleme ve çıkarma özelliği.
 Filtreleme Sistemi: Sidebar üzerinde kategorilere ve diğer özelliklere göre dinamik ilan filtreleme.
 İlan Yönetimi:
